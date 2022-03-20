@@ -1,4 +1,4 @@
 I am a good line!
-I am in hiding.
+i am in hiding.
 I will be selected.
-I will not.
+i will not.
