@@ -1,0 +1,4 @@
+I am a good line!
+I am in hiding.
+I will be selected.
+I will not.
